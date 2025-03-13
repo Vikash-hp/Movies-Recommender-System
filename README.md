@@ -12,7 +12,7 @@
 <h2>📌 Installation</h2>
 <ol>
     <li>Clone the repository:
-        <pre><code>git clone https://github.com/your-username/movies-recommender.git
+        <pre><code>https://github.com/Vikash-hp/Movies-Recommender-System.git
 
 
 <h2>🚀 Usage</h2>
